@@ -3,8 +3,8 @@ title: Launch X Bitácora de viaje
 description: The hallway smelt of boiled cabbage and old rag mats.
 ---
 
-Hola ✌️  soy el explorer **___** y este es mi blog personal donde compartiré mis aventuras de Launch X.
+Hola ✌️  soy el explorer Luis y este es mi blog personal donde compartiré mis aprendizajes y experiencias en el curso de Launch X.
 
-Te invito a conocer mis aprendizajes y leer mis experiencias.
+Soy estudiante de Ingeniería en Sistemas y con este curso espero aprender y reforzar conocimientos y/o valores que sigan ayudando a mi desarrollo personal y profesional.
 
 🚀
