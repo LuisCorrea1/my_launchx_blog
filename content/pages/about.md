@@ -9,9 +9,9 @@ menu:
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> *La creatividad es la inteligencia divirtiéndose*
-
-> *Albert Einstein*
+> *"La creatividad es la inteligencia divirtiéndose"*
+> 
+> *-Albert Einstein*
 
 * Soy un gran apasionado de los videojuegos y el deporte. Mis deportes favoritos son el fútbol americano, soccer y la F1, mis equipos son Steelers, Toluca y ahora apoyo a RedBull por nuestro gran Checo pero prepárense para el gran futuro que le espera a McLaren. 
 
