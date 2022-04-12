@@ -9,13 +9,11 @@ menu:
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> *La creatividad es la inteligencia divirtiéndose*
+> *Albert Einstein*
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+* Soy un gran apasionado de los videojuegos y el deporte. Mis deportes favoritos son el fútbol americano, soccer y la F1, mis equipos son Steelers, Toluca y ahora apoyo a RedBull por nuestro gran Checo pero prepárense para el gran futuro que le espera a McLaren. :football:
+* Mi comida favorita son las enchiladas y chilaquiles, sin duda podría comerlos sin parar. :plate_with_cutlery:
+* Mis hobbies preferidos son hacer ejercicio, escuchar música, jugar videojuegos y salir con mis amig@s. :musical_note:
+
 
